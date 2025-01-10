@@ -1,8 +1,2 @@
-﻿  CAScene.cpp
-C:\Users\aheffley\Neumont\Winter 2025\Quarter\GAT420-AI\Projects\AI-Dev\AI-Dev\Source\CAScene.cpp(50,22): warning C4805: '|=': unsafe mix of type 'int' and type 'const T' in operation
-C:\Users\aheffley\Neumont\Winter 2025\Quarter\GAT420-AI\Projects\AI-Dev\AI-Dev\Source\CAScene.cpp(50,22): warning C4805:         with
-C:\Users\aheffley\Neumont\Winter 2025\Quarter\GAT420-AI\Projects\AI-Dev\AI-Dev\Source\CAScene.cpp(50,22): warning C4805:         [
-C:\Users\aheffley\Neumont\Winter 2025\Quarter\GAT420-AI\Projects\AI-Dev\AI-Dev\Source\CAScene.cpp(50,22): warning C4805:             T=bool
-C:\Users\aheffley\Neumont\Winter 2025\Quarter\GAT420-AI\Projects\AI-Dev\AI-Dev\Source\CAScene.cpp(50,22): warning C4805:         ]
-C:\Users\aheffley\Neumont\Winter 2025\Quarter\GAT420-AI\Projects\AI-Dev\AI-Dev\Source\Cells.h(9,1): warning C4172: returning address of local variable or temporary 
+﻿  GOLScene.cpp
   AI-Dev.vcxproj -> C:\Users\aheffley\Neumont\Winter 2025\Quarter\GAT420-AI\Projects\AI-Dev\AI-Dev\Bin\x64\AI-Dev.exe

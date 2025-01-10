@@ -1,0 +1,5 @@
+
+*.vsidx
+*.db
+*.opendb
+.vs/AI-Dev/v17/.suo
